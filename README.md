@@ -1,57 +1,53 @@
-# ai_case_study
-# TITLE
+![Westlaw Log](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_107b92bb262956804ae7fc345e7b6dd6/westlaw.png)
+# **Westlaw an AI Case Study**
 
-## Overview and Origin
+## ***1 Overview and Origin of Westlaw***
 
-* Name of company
-Thomson Reuters
-https://www.prnewswire.com/news-releases/thomson-reuters-launches-generative-ai-powered-solutions-to-transform-how-legal-professionals-work-301989149.html
-https://legal.thomsonreuters.com/en/products/westlaw-edge
-https://legal.thomsonreuters.com/blog/legal-research-meets-generative-ai/
-https://legal.thomsonreuters.com/en/c/westlaw/westlaw-precision-generative-ai?gclid=CjwKCAjw7-SvBhB6EiwAwYdCAaMjWkVf0Ac2Y23P1KKhLbw9ycCRPWz5Lw_cTJ5DmGUELmyWtssmXxoCHzoQAvD_BwE&searchid=TRPPCSOL/Google/LegalUS_RS_Westlaw_Main_Search_Brand-All_US/AI&chl=ppc&cid=3492865&sfdccampaignid=7014O000001BkfQQAS&ef_id=CjwKCAjw7-SvBhB6EiwAwYdCAaMjWkVf0Ac2Y23P1KKhLbw9ycCRPWz5Lw_cTJ5DmGUELmyWtssmXxoCHzoQAvD_BwE:G:s&s_kwcid=AL!7944!3!681703130762!e!!g!!westlaw%20ai&gad_source=1
-https://abovethelaw.com/2023/11/westlaw-ai-launch-forces-confrontation-with-the-inner-workings-of-a-lawyers-mind/
-https://www.law.com/legaltechnews/2023/11/15/thomson-reuters-launches-gai-assisted-search-on-westlaw-precision-cocounsel-integrations/
 
-* When was the company incorporated?
+> Westlaw is a wholly owned subsidiary of Thomson Reuters.
 
-* Who are the founders of the company?
+Westlaw was created in 1975, in Minnesota. It was later acquired by Thomson Corporation in 1996, [citation](https://scholarship.law.wm.edu/libpubs/5/ "Scholarship Repository"). It then was consolidated into Thomson Reuters after it was acquired by the Thomson Corporation, a Canadian company, in 2008, [citation](https://www.reuters.com/article/industryNews/idUSN1438977620080418/ "Reuters News Article").
 
-* How did the idea for the company (or project) come about?
+The intent of the company at founding, and the major use today is the same, to use technology/computers to help with legal research. Westlaw became hugely successful, with only one other company in the industry that could be called its competitor, LexisNexis. As technology improved so did Westlaw. They were quick to offer their services online as that became available. They were able to make their system more user-friendly, while also giving more options to limit or expand databases to suit a user’s needs. This, along with many other changes, has allowed Westlaw to stay at the forefront of the legal tech world. AI is just the next logical step along that path.
 
-* How is the company funded? How much funding have they received?
+> Westlaw receives most of their funding through subscription fees to access and use their services.
 
-## Business Activities
 
-* What specific problem is the company or project trying to solve?
+## ***2 Business Activities of Westlaw***
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+Legal research, like any research, can be a very complex and time-consuming activity. As any person can attest to today, access to and the use of a good search engine has had a huge impact on how society interacts with the world around us. What would have taken someone hours to look up in an old encyclopedia can now be accessed in seconds with a simple Google search. This frees up time for people to focus on other things while also allowing people to verify basic information, that we might have never taken the time to verify in the past.  Making legal research easier and more accessible does the same thing for the legal profession. However, this has not been the fix all to disinformation many thought it would be. If it was, we would not have so many problems today with “fake news.”
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+With good legal research aids attorneys can more quickly, accurately, and confidently gather the information they need to better represent their clients. In addition, this has the added effect of making the law more uniform and applied more fairly. For example, an attorney in Wyoming handling a case that has no local president, similar cases in their local jurisdiction, can easily search for similar cases in surrounding states. These cases will not be legally binding on the local judge, but it does help them understand how another judge in a similar situation ruled. Where in the past, the likelihood of finding such a case outside of your jurisdiction would have been rare.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Westlaw’s customers are generally any large law firm, around 50+ attorneys. They hold the majority of the market share in this market. LexisNexis is the only real competitor. They tend to corner the smaller law firms, those trying to save a penny, and large law firms that have enough money to have both Westlaw and LexisNexis. Westlaw holds this advantage because they have been around for longer. This allowed them to create a better user experience as well as a better and more accurate research engine. Fore example, it is like using Google versus Internet Explorer to do research. Both search the internet, but if anyone really has a choice they will pick Google every time. There are some minor differences where certain databases are exclusively offered by one company or the other. Because Westalw is known to be the best, they can charge high rates and either buy up the competition, their talent, or just out invest them.
 
-## Landscape
 
-* What field is the company in?
+## ***3 Landscape of Westlaw***
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+Westalaw works in the legal research assistant industry. The legal research industry has gone through some significant changes in the last ten years, [citation](https://www.lawnext.com/2020/01/the-decade-in-legal-tech-the-10-most-significant-developments.html "The Decade in Legal Tech").
 
-* What are the other major companies in this field?
+Westlaw and Lexis Nexis really took off around ten years ago by applying Google like searches to their databases. In addition, there was an initial negative reaction to storing data in the cloud, away from attorney direct control. As time has progressed it has become less of a concern for attorneys, as almost all industries have moved in that direction, and it is generally seen as trusted now. The industry of the law has always been wary of change. This has made them slower than other industries at adopting new practices. However, they do eventually come around. With the advent of the smart phone and tablets attorneys could work on the move and not just be tethered to their offices. Making them more likely to adopt and use new technologies in their practices, as it made their lives easier. In addition, we have seen changes in the legal industry where it is generally understood that attorneys, to stay competent at their jobs, are now being required by state bar associations to be minimally competent in the latest technologies. We have seen cases where attorneys have been held liable for not properly redacting documents digitally. This has forced law firms to stay informed and up to date on the latest developments in legal technology to stay in business. The legal industry has also seen upsets to their business plans over the past decade. Clients have become stingier in their payments and are requesting attorneys adopt technology to have a smaller billable hour. This has forced law firms to investigate and adopt such technologies to keep their clients. The widened use of artificial intelligence is just the latest upset to the industry. Shareholders and customers alike are interested in using it. Which drives investment into companies to develop such technologies.
 
-## Results
 
-* What has been the business impact of this company so far?
+## ***4 Results of Westlaw***
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+The business impact of the company has been huge. They are the Google of the legal research assistance industry. Core metrics of measuring this success are the percentage of lawyers using their services, [citation](https://www.lawnext.com/2013/08/for-paid-legal-research-westlawnext-is-most-popular-aba-survey-says.html "LawNext"). Where Westlaw holds 53% of the market. However, this is looking at attorneys as a whole, single practice firms all the way to multinational firms. If there was data on firms that were large enough to afford Westlaw those numbers are likely closer to 90%. The closest competitor, Lexis Nexis, only holds a 29% market share.
 
-* How is your company performing relative to competitors in the same field?
+## ***5 Recommendations of Westlaw***
 
-## Recommendations
+I think the company is headed in the right direction with the services they are offering and the ones they are developing. I think they will run into a lot of issues though in how they deploy those to attorneys. As stated above attorneys do not handle change well. First, is using AI to improve their research engines. There has been huge growth in this area over the past few years and it is one that most attorneys would not fight in adopting. As long as the interface was substantially like their old search engine no one is going to raise much of a fuss if some of the things in the background change to give them better search results.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Where they are going to have a much harder time getting attorneys on board with is in automating document creatin with AI. There are already several new companies on the market that are doing document building with basic code, sixfifty.com. However, the industry is on the brink of a major upset with the adoption of AI. These smaller companies do not have the funding, infostructure, or data to really take advantage of these new advances in AI. However, huge companies like Westlaw are in the perfect position to take advantage of these new technologies. Westlaw is started working in this area but it has yet to take off, [citation](https://legal.thomsonreuters.com/en/products/form-builder?gclid=CjwKCAjwte-vBhBFEiwAQSv_xYJmlYATiTXHhEzyHFt1LvLEc1pxGEVbSI_tpgSI6ytjRfc10VvNpxoCTkAQAvD_BwE&searchid=TRPPCSOL/Google/LegalUS_RS_Westlaw_Main_Search_Brand-All_US/WestlawFormBuilder-All&chl=ppc&cid=4219808&sfdccampaignid=701Hs000002MVSlIAO&ef_id=CjwKCAjwte-vBhBFEiwAQSv_xYJmlYATiTXHhEzyHFt1LvLEc1pxGEVbSI_tpgSI6ytjRfc10VvNpxoCTkAQAvD_BwE:G:s&s_kwcid=AL!7944!3!591223841038!e!!g!!west%20law%20form%20builder&gad_source=1 "Westlaw Document Builder"). This is probably for several reasons. One is that it is still relatively new and there are a lot of bugs and trials to work out that will only be fixed with time. The major issue though will be getting attorneys to adopt it. Given enough time they will eventually adopt these technologies. We have seen this with the adoption of the internet, smart phones, and cloud storage. However, the legal industry was well behind almost every industry in adopting these. To help speed up the adoption of AI in the legal industry it will take trusted attorneys taking time to become experts in the field. That way they can be the ones to review and verify the technology and then bring it back to their firms. There they can talk legal speak to smooth over the worries the firm may have. There will be some initial fear from attorneys that the work product will not be as good, and that technology will take over their jobs. However, this has been a worry of older attorneys since the invention of the internet. And it has yet to play out. The biggest push that will get attorneys to adopt this new technology and the one that companies can rely on to force attorneys to adopt this new tech are attorneys’ clients. They will demand adoption of the new tech to save them money.
 
-* Why do you think that offering this product or service would benefit the company?
+The biggest technology adoption to implement this will be AI. Westlaw is already using these in their research tool but not yet fully in their document automation tool. Companies will need time to train these new tools and for law firms to use them and give feedback to help refine them before they are good. It is still early days so there will be a lot of hiccups. This means only letting known and supportive firms test out the new technology. If they move to fast and releasing it generally, they risk creating a backlash against the new technology when something inevitably goes wrong. Attorneys are perfectionists and they expect the same perfection in their tech that they do in the documents they draft. Be releasing to a select trusted few firms it allows Westlaw to improve their tech in a safer environment, before releasing it to the general public. These technologies are appropriate for this industry because it has the potential to produce a better work product at a fraction of the cost to clients and clients will soon be demanding it of their law firms.
 
-* What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
+## ***6 Citations***
+
+* https://www.prnewswire.com/news-releases/thomson-reuters-launches-generative-ai-powered-solutions-to-transform-how-legal-professionals-work-301989149.html
+* https://legal.thomsonreuters.com/en/products/westlaw-edge
+* https://legal.thomsonreuters.com/blog/legal-research-meets-generative-ai/
+* https://legal.thomsonreuters.com/en/c/westlaw/westlaw-precision-generative-ai?gclid=CjwKCAjw7-SvBhB6EiwAwYdCAaMjWkVf0Ac2Y23P1KKhLbw9ycCRPWz5Lw_cTJ5DmGUELmyWtssmXxoCHzoQAvD_BwE&searchid=TRPPCSOL/Google/LegalUS_RS_Westlaw_Main_Search_Brand-All_US/AI&chl=ppc&cid=3492865&sfdccampaignid=7014O000001BkfQQAS&ef_id=CjwKCAjw7-SvBhB6EiwAwYdCAaMjWkVf0Ac2Y23P1KKhLbw9ycCRPWz5Lw_cTJ5DmGUELmyWtssmXxoCHzoQAvD_BwE:G:s&s_kwcid=AL!7944!3!681703130762!e!!g!!westlaw%20ai&gad_source=1
+* https://abovethelaw.com/2023/11/westlaw-ai-launch-forces-confrontation-with-the-inner-workings-of-a-lawyers-mind/
+* https://www.law.com/legaltechnews/2023/11/15/thomson-reuters-launches-gai-assisted-search-on-westlaw-precision-cocounsel-integrations/
+* [Jean McKnight, "Wexis versus the Net", Illinois Bar Journal 85, no. 4 (April 1997): 189-190](https://en.wikipedia.org/wiki/Westlaw#cite_note-8)
